@@ -4,7 +4,7 @@ body {
     align-items: center;
     height: 100vh;
     background: linear-gradient(135deg, #74ebd5, #9face6);
-    font-family: 'Arial', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 .calculator {
